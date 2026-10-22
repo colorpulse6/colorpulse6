@@ -17,6 +17,7 @@ I build web apps, games, Obsidian plugins, and AI tools. Based in Madrid. Used t
 
 - [Brain Atlas](https://github.com/colorpulse6/brain-atlas) - Obsidian vault rendered as a 3D brain ([Obsidian](https://community.obsidian.md/plugins/brain-atlas))
 - [Cerebro Mycelium](https://github.com/colorpulse6/cerebro-mycelium) - vault as a living mycelium network ([Obsidian](https://community.obsidian.md/plugins/cerebro-mycelium))
+- [Chimera](https://colorpulse6.github.io/project-chimera/) - a painted JRPG in Unreal Engine 5, and the site that is its running record ([repo](https://github.com/colorpulse6/project-chimera))
 - [Sector Zero](https://github.com/colorpulse6/sector-zero) - vertical-scrolling space shooter with RPG modes
 - [Claude Skills](https://github.com/colorpulse6/claude-skills) - PR review / respond / push skills for Claude Code
 - [Throttle](https://github.com/colorpulse6/throttle) - macOS menu bar tracker for Claude and Codex usage limits
